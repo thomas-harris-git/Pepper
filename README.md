@@ -1,5 +1,5 @@
 # Pepper Robo-receptionist (University Masters Dissertation)
-Project: Robo-receptionist for the University of Essex computer science department. (Individual Project)
+Project: Robo-receptionist for the University of Essex computer science department.
 
 Technology: Python, Pepper, Choregraphe, Watson Speech to Text, Watson Assistant, Node-RED, NAO Qi, Windows.
 
